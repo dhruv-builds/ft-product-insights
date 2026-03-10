@@ -1,0 +1,5 @@
+anthropic
+certifi
+pandas
+python-dotenv
+supabase
